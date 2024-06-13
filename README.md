@@ -44,10 +44,10 @@ The SUS has ten questions, using a scale of 1-5; 1 = strongly disagree, 5 = stro
 - (SUPR-Q)[https://measuringu.com/product/suprq/] measures the usability and quality of a product's user experience
 - (USE)[https://garyperlman.com/quest/quest.cgi?form=USE]
 
-  ## Useful Reference
+## Useful Reference
 
-  - https://www.bentley.edu/centers/user-experience-center/measuring-difficulty-doesnt-need-be-difficult
-  - Comparison of Three One-Question, Post-Task Usability Questionnaires, Jeff Sauro
+- https://www.bentley.edu/centers/user-experience-center/measuring-difficulty-doesnt-need-be-difficult
+- Comparison of Three One-Question, Post-Task Usability Questionnaires, Jeff Sauro
  https://measuringu.com/papers/Sauro_Dumas_CHI2009.pdf
 
 
